@@ -8,3 +8,7 @@ The dashboard includes key performance indicators(KPIs) such as:
 4) Sum of outlet Sales:
 5) Total sales by Item Type:
 6) Sales by outlet location types:
+
+![blinkit dashboard-img](https://github.com/user-attachments/assets/4f88a604-1dd5-42cb-911e-462cece30ae7)
+
+
